@@ -219,8 +219,8 @@
 			<checksum component="README.md">-816855891</checksum>
 			<version component="PhotoDemon.exe">7.9.0.2102</version>
 			<checksum component="PhotoDemon.exe">-419974259</checksum>
-			<version component="PD_Update_Patcher.exe">1.0.0.24</version>
-			<checksum component="PD_Update_Patcher.exe">1183457812</checksum>
+			<version component="PD_Update_Patcher.exe">1.0.0.25</version>
+			<checksum component="PD_Update_Patcher.exe">-1892490812</checksum>
 			<checksum component="LICENSE.md">-362922324</checksum>
 			<checksum component="Donate to PhotoDemon.url">-861395656</checksum>
 			<checksum component="CODE_OF_CONDUCT.md">-595220137</checksum>
@@ -234,7 +234,7 @@
 		<releasenumber-beta>1</releasenumber-beta>
 		
 	</pdData>
-	senumber-beta>1</releasenumber-beta>
+	enumber-beta>1</releasenumber-beta>
 		
 	</pdData>
 	
